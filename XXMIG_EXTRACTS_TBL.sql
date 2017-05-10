@@ -11,7 +11,7 @@ WHENEVER SQLERROR CONTINUE
 
  Date         Version#  Name              Remarks
  -----------  --------  ----------------  ----------------------------
- 10-May-2017  1.0       IBM               Initial Development(AIC-Q2-02)
+ 10-May-2017  1.0       IBM               Initial Creation (AIC-Q2-02)
 */
 ----------------------------------------------------------------------
 
